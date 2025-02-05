@@ -23,6 +23,14 @@
       "image": "https://example.com/images/remote_work.jpg",
       "date": "2025-01-18",
       "by": "Emily Brown"
+    },
+        {
+      "id": 7,
+      "title": "The Rise of Remote Work",
+      "description": "An analysis of the growing trend of remote work and its long-term implications for businesses and employees.",
+      "image": "https://example.com/images/remote_work.jpg",
+      "date": "2025-01-18",
+      "by": "Emily Brown"
     }
   ],
   "experiences": [
